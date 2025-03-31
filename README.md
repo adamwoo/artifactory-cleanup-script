@@ -32,7 +32,7 @@ Before using the cleanup scripts, please ensure that you have the JFrog Client i
 1. **Clone this Repository**:
    - Use Git to clone this repository to your local machine:
      ```bash
-     git clone https://github.com/yourusername/your-repo-name.git
+     git clone https://github.com/adamwoo/artifactory-cleanup-script.git
      ```
 
 2. **Navigate to the Project Directory**:
@@ -44,6 +44,7 @@ Before using the cleanup scripts, please ensure that you have the JFrog Client i
 3. **Run the Cleanup Script**:
    - Modify the configuration in the script as per your requirements, and run the cleanup script using:
      ```bash
+     # check the script params before process
      bash clean_artifactory.sh
      ```
 
