@@ -39,7 +39,7 @@ Before using the cleanup scripts, please ensure that you have the JFrog Client i
 2. **Navigate to the Project Directory**:
    - Change into the cloned project directory:
      ```bash
-     cd your-repo-name
+     cd artifactory-cleanup-script
      ```
 
 3. **Run the Cleanup Script**:
