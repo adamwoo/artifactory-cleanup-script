@@ -3,7 +3,7 @@ artifactory cleanup script
 
 # Artifactory Cleanup Script
 
-**LANGUAGE: [English](README.md), [简体中文](README_zh.md).**
+**LANGUAGE: [ENGLISH](README.md), [简体中文](README_zh.md).**
 
 ## Project Overview
 
