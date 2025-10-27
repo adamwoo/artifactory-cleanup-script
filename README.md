@@ -47,6 +47,8 @@ Before using the cleanup scripts, please ensure that you have the JFrog Client i
      ```bash
      # check the script params before process
      bash clean_artifactory.sh
+     # --quiet=true non-interactive，--threads settings operation threads num
+     jfrog rt del --spec cleanup-artifact.spec --quiet=true --threads 50
      ```
 
 ## Notes
